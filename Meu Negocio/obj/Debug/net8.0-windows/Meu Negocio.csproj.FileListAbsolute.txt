@@ -1,0 +1,17 @@
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\bin\Debug\net8.0-windows\Meu Negocio.exe
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\bin\Debug\net8.0-windows\Meu Negocio.deps.json
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\bin\Debug\net8.0-windows\Meu Negocio.runtimeconfig.json
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\bin\Debug\net8.0-windows\Meu Negocio.dll
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\bin\Debug\net8.0-windows\Meu Negocio.pdb
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\obj\Debug\net8.0-windows\Meu_Negocio.Views.Home.resources
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\obj\Debug\net8.0-windows\Meu Negocio.csproj.GenerateResource.cache
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\obj\Debug\net8.0-windows\Meu Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\obj\Debug\net8.0-windows\Meu Negocio.AssemblyInfoInputs.cache
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\obj\Debug\net8.0-windows\Meu Negocio.AssemblyInfo.cs
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\obj\Debug\net8.0-windows\Meu Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\obj\Debug\net8.0-windows\Meu Negocio.dll
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\obj\Debug\net8.0-windows\refint\Meu Negocio.dll
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\obj\Debug\net8.0-windows\Meu Negocio.pdb
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\obj\Debug\net8.0-windows\Meu Negocio.genruntimeconfig.cache
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\obj\Debug\net8.0-windows\ref\Meu Negocio.dll
+C:\Users\Aelson Carvalho\source\repos\Meu Negocio\Meu Negocio\obj\Debug\net8.0-windows\Meu_Negocio.Views.Caixa.resources
